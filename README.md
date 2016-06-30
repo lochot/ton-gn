@@ -33,3 +33,6 @@ Cumul :
 <iframe src="http://mon-gn.com/trouver/widget.php?nombre=5&pays=france"></iframe>
 ```
 > Affichera les 5 prochains GN qui se passent en france
+
+## Un bug ?   
+Ouvrez une issue, et donnez le maximum d'information sur le bug rencontré.
