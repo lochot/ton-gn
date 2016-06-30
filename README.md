@@ -14,17 +14,20 @@ par pays :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php?pays=france"></iframe>
 ```
-Affichera les GN en France
+Affichera les GN en France   
+
 par departement :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php?departement=59"></iframe>
 ```
-Affichera les GN dans le departement 59
+Affichera les GN dans le departement 59   
+
 par nombre de gn affichés :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php?nombre=5"></iframe>
 ```
-Affichera les 5 prochains GN
+Affichera les 5 prochains GN   
+
 Cumul :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php?nombre=5&pays=france"></iframe>
