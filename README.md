@@ -8,7 +8,8 @@ ajoutez le code suivant :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php"></iframe>
 ```
-__Options__
+__Options__   
+
 par pays :
 ```html
 <iframe src="http://mon-gn.com/trouver/widget.php?pays=france"></iframe>
